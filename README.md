@@ -1,5 +1,3 @@
-# EMICalc
-EMICalculator
 ---
 
 # EMI Calculator
